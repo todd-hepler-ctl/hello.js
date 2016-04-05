@@ -1,6 +1,6 @@
 
 
-This node.js app is in a state where "cf push" can be performed and it can connect to a mysql database.
+This node.js app is in a state where in a few commands, we can demonstrate connecting to a MySQL server that we can specify.
 
     $ git clone https://github.com/todd-hepler-ctl/hello.js.git
     $ cd hello.js
