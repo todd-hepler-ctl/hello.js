@@ -2,8 +2,6 @@
 
 This node.js app is in a state where "cf push" can be performed and it can connect to a mysql database.
 
-    ~~~ sh
-    
     $ git clone https://github.com/todd-hepler-ctl/hello.js.git
     Cloning into 'hello.js'...
     remote: Counting objects: 31, done.
@@ -15,4 +13,3 @@ This node.js app is in a state where "cf push" can be performed and it can conne
     $ cf login $YOUR_CF_ENDPOINT
     [...]
     
-    ~~~
